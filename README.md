@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about
   - Wim Hof Cold Plunge
-  - Audi A3
-  - Cybertruck
   - Sailing
   - GQL, React, SSR, PWA, RN, TS
   - Headaches, https://en.wikipedia.org/wiki/Memory_disorder
   - DIYbio
   - Snorkelling
-  - Working out
+  - Working out, Biking, My custom made longboard, Standup paddle
   - Welding, Woodworking and that sort of stuff
+  - Audi A3
+  - Cybertruck
 - 📫 How to reach me: https://olso.space, https://kankur.xyz
