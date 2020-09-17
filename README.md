@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Audi A3
   - Cybertruck
   - Sailing
-  - GQL
+  - GQL, React, SSR, PWA, RN, TS
   - Headaches, https://en.wikipedia.org/wiki/Memory_disorder
   - DIYbio
   - Snorkelling
