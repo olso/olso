@@ -12,8 +12,11 @@ Here are some ideas to get you started:
   - https://www.notion.so/ML-AI-learning-06c861014c4249e5a2e38d473de863cc
   - https://www.notion.so/Biology-learning-137b5ecd2a904ebfbff7666798a0daae
   - https://www.notion.so/Human-memory-problems-and-solutions-by-Martin-Olsansky-0bd717bbdbd047d2b407055b89d1751e
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ...
+-->
 - 💬 Ask me about
   - Wim Hof Cold Plunge
   - Audi A3
@@ -26,4 +29,3 @@ Here are some ideas to get you started:
   - Working out
   - Welding, Woodworking and that sort of stuff
 - 📫 How to reach me: https://olso.space, https://kankur.xyz
-- ⚡ Fun fact: ...
